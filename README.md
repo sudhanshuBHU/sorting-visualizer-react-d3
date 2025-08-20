@@ -21,9 +21,6 @@ A modern, interactive web application for visualizing and understanding sorting 
 - **Algorithm Information**  
   View time and space complexity for each algorithm.
 
-- **Responsive UI**  
-  Works seamlessly on desktop and mobile devices.
-
 - **Restart & Stop**  
   Restart the sorting process or stop it at any time.
 
@@ -71,7 +68,6 @@ npm run build
 ## 📚 Acknowledgements
 
 - Inspired by the need to understand sorting algorithms better.
-- Thanks to the contributors of the sorting algorithms visualizer project.
 
 ---
 
