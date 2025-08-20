@@ -71,6 +71,11 @@ npm run build
 
 ---
 
+## 📬 Contact
+
+- **Email:** [sudhanshu.shekhar.bhu7@gmail.com](mailto:sudhanshu.shekhar.bhu7@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/sudhanshu-shekhar-7979b2214/](https://www.linkedin.com/in/sudhanshu-shekhar-7979b2214/)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
